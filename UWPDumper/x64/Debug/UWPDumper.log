@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (UWPDumper.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+cl : linha de comando  warning D9025: substituindo '/MTd' com '/MDd'
+  DumperIPC.cpp
+  main.cpp
+  Gerando Código...
+cl : linha de comando  warning D9025: substituindo '/MTd' com '/MDd'
+  UWP.cpp
+     Criando biblioteca C:\Users\Quint\Downloads\UWPDumper-master2\UWPDumper-master\x64\EXEDumper.lib e objeto C:\Users\Quint\Downloads\UWPDumper-master2\UWPDumper-master\x64\EXEDumper.exp
+  UWPDumper.vcxproj -> C:\Users\Quint\Downloads\UWPDumper-master2\UWPDumper-master\x64\EXEDumper.dll

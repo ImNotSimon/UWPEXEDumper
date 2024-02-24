@@ -27,7 +27,7 @@
 
 #define REPARSE_MOUNTPOINT_HEADER_SIZE   8
 
-const wchar_t* DLLFile = L"EXEDumper.dll";
+const wchar_t* DLLFile = L"UWPDumper.dll";
 
 void SetAccessControl(
 	const std::wstring& ExecutableName,
